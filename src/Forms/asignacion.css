@@ -1,0 +1,21 @@
+body {
+    color: #5E6366;
+    font-size: 14px;
+}
+
+
+input {
+    color: white;
+    background-color: #152C70;
+    border: none;
+    border-radius: 8px;
+    width: 150px;
+    height: 50px;
+}
+
+.MuiContainer-root {
+    margin-top: 20px;
+}
+.MuiInputBase-root {
+    height: 50px;
+}
